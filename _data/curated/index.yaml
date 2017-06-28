@@ -5,4 +5,28 @@
   url: https://tune.com/blog/startups-need-api/
   domain: tune.com
   image: ""
+- curated_id: f95d6a2f2dcb3ee9938ae30d63ee46f7
+  item_date: "2016-01-18 05:35:58"
+  title: Kiev airport goes dark after BlackEnergy-linked power outage
+  url: http://www.theregister.co.uk/2016/01/18/blackenergy_power_outage_malware_kiev_airport/
+  domain: www.theregister.co.uk
+  image: ""
+- curated_id: f87cde972a308dbce9f62ef4f8e10680
+  item_date: "2016-02-25 00:00:00"
+  title: How to Use Undocumented APIs to Hack Your Tesla
+  url: http://www.programmableweb.com/news/how-to-use-undocumented-apis-to-hack-your-tesla/how-to/2016/02/25
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: d1c1c7e06f87bdecf55cf56d62b43708
+  item_date: "2016-07-25 10:50:30"
+  title: ""
+  url: https://fevgames.net/walking-a-dangerous-line-pokemon-go-and-unofficial-api-projects/
+  domain: fevgames.net
+  image: ""
+- curated_id: 0adb081d8500bc257a53fea98491761f
+  item_date: "2016-08-10 13:12:51"
+  title: Snapchat - GSFD
+  url: https://gibsonsec.org/snapchat/fulldisclosure/
+  domain: gibsonsec.org
+  image: ""
 ...
